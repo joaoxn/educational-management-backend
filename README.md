@@ -1,7 +1,7 @@
 # FULLSTACK EDUCATION
 ## _Projeto: Back-End_: labPCP
 - - - 
-Integrada à empresa **LAB365 Developer**, o Software "labPCP" foi desenvolvido.  
+O Software "labPCP" foi desenvolvido como projeto conclusão de curso de Back-End requisitada pela instituição **LAB365**.
 - labPCP é um projeto de API Rest completa para gestão de cursos, turmas, conteúdos e docentes, que será futuramente integrada à soluções web de gestão em escolas e creches da rede pública.
 <br/><br/>
 ### Tecnologias
